@@ -28,7 +28,7 @@ Highly analytical Technical Solutions Specialist with a strong foundation in sof
 * Aggregated and structured fragmented geopolitical risk and conflict datasets across West African corridors using Python data frameworks.
 * Designed scalable relational SQL schemas to model cross-border data points, tracking regional peacekeeping deployments and security metrics.
 * Developed comprehensive data-policy synthesis frameworks to transform raw quantitative data into structured summaries that align with international monitoring criteria.
-* 🔗 [View Repository](https://github.com/AYO-DEV-hub/west-africa-security-analytics)
+* 🔗 [View Repository](https://github.com/AYO-DEV-hub/west--africa-security-analytics
 
 ### 2. ECOWAS Treaty Compliance & Policy Tracker
 *Policy Tracking Software & Systems Architecture | Governance Project*
