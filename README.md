@@ -10,27 +10,33 @@ Highly analytical Technical Solutions Specialist with a strong foundation in sof
 *   **Data Analytics & Reporting:** Data Modeling, Statistical Analysis, Data Visualization (Power BI / Tableau).
 *   **Institutional Writing:** Technical Blueprints, Standard Operating Procedures (SOPs), Policy Brief Synthesis.
 
-## TECHNICAL STACK & TOOLS
-*   **Languages & Frameworks:** Python, SQL, JavaScript, Dart, Flutter / FlutterFlow.
-*   **Data & Systems:** PostgreSQL, Firebase, REST APIs, JSON Data Structuring.
+## 🛠️ Technical Stack & Frameworks
 
----
+* **Languages & Scripts:** Python (Data Analysis/Pandas/NumPy), SQL (PostgreSQL, MSSQL), JavaScript
+* **Data & System Architecture:** Relational Database Design, REST API Integration, JSON Data Structuring
+* **Business Intelligence & Visualization:** Power BI, Tableau, Advanced Data Modeling, Statistical Reporting
+* **Institutional Capabilities:** Policy-Data Synthesis, Technical Report Writing, Regional Risk Assessment
+* **Core Domain Expertise:** West African Geopolitical Integration, Cross-Border Security Frameworks, Institutional Compliance Tracking
+*
 
 ## PROFESSIONAL EXPERIENCE & TECHNICAL PROJECTS
 
-### Lead Systems Architect & Developer | Ninja JAMB GPT System
-*Technical Project | [Month, Year] – Present*
-*   Engineered a cloud-integrated, AI-driven educational application utilizing advanced frontend frameworks and integrated API pipelines (Gemini API) to dynamically process curricular datasets.
-*   Designed scalable database models to manage real-time user state tracking, automated question-generation pipelines, and localized leaderboard performance metrics.
-*   Drafted a comprehensive 15-page Technical System Blueprint and architectural documentation detailing API endpoints and data schemas to ensure sustainable internal maintenance.
+##  Featured Projects & Systems Architecture
 
-### Data Engineer & Compliance Researcher | Cross-Border Asset Search Framework
-*Technical Project | [Month, Year] – [Month, Year]*
-*   Developed automated data extraction scripts in Python to securely parse distributed financial and property registries across multiple international jurisdictions (US, UK, Canada, Nigeria).
-*   Synthesized raw, fragmented data structures into standardized, compliant database models to facilitate seamless verification processes.
-*   Authored an extensive technical report and compliance layout aligning system automated data processing steps with cross-border regulatory standards.
+### 1. West Africa Regional Security Analytics Engine
+*Regional Security & Data Analytics | Institutional Project*
+* Aggregated and structured fragmented geopolitical risk and conflict datasets across West African corridors using Python data frameworks.
+* Designed scalable relational SQL schemas to model cross-border data points, tracking regional peacekeeping deployments and security metrics.
+* Developed comprehensive data-policy synthesis frameworks to transform raw quantitative data into structured summaries that align with international monitoring criteria.
+* 🔗 [View Repository](https://github.com/AYO-DEV-hub/west-africa-security-analytics)
 
----
+### 2. ECOWAS Treaty Compliance & Policy Tracker
+*Policy Tracking Software & Systems Architecture | Governance Project*
+* Engineered an automated compliance tracking framework to monitor the implementation levels of regional treaties and trade protocols across member states.
+* Transformed text-heavy international protocols into structured, searchable JSON datasets and relational database schemas.
+* Designed a reporting engine that automatically formats database queries into standardized, high-level briefing summaries and situation reports for policy analysts and diplomats.
+* 🔗 [View Repository](https://github.com/AYO-DEV-hub/ecowas-treaty-compliance-tracker)
+*
 
 ## EDUCATION
 ### Bachelor of Arts: History and International Studies
