@@ -3,6 +3,7 @@
 🔗 github.com/AYO-DEV-hub | www.linkedin.com/in/ayodele096
 
 ## PROFESSIONAL SUMMARY
+🇺🇳 Registered UNGM Individual Consultant (#1232090)
 Highly analytical Technical Solutions Specialist with a strong foundation in software engineering, cloud database management, and data-driven report writing. Adept at transforming raw regional datasets into interactive dashboards and designing structured system architectures tailored for institutional transparency and monitoring workflows. Proven capacity to bridge the gap between complex software backend engineering and high-level technical documentation in alignment with international development standards.
 
 ## CORE COMPETENCIES
