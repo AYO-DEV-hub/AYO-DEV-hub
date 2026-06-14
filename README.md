@@ -1,6 +1,6 @@
 # AYODELE ENOCH
 📍 Abuja, Nigeria | 📞 +234 09034091325 | ✉️ wemski096@gmail.com
-🔗 github.com/AYO-DEV-hub | 🔗 linkedin.com/in/ayodele096
+🔗 github.com/AYO-DEV-hub | www.linkedin.com/in/ayodele096
 
 ## PROFESSIONAL SUMMARY
 Highly analytical Technical Solutions Specialist with a strong foundation in software engineering, cloud database management, and data-driven report writing. Adept at transforming raw regional datasets into interactive dashboards and designing structured system architectures tailored for institutional transparency and monitoring workflows. Proven capacity to bridge the gap between complex software backend engineering and high-level technical documentation in alignment with international development standards.
@@ -10,7 +10,7 @@ Highly analytical Technical Solutions Specialist with a strong foundation in sof
 *   **Data Analytics & Reporting:** Data Modeling, Statistical Analysis, Data Visualization (Power BI / Tableau).
 *   **Institutional Writing:** Technical Blueprints, Standard Operating Procedures (SOPs), Policy Brief Synthesis.
 
-## 🛠️ Technical Stack & Frameworks
+##  Technical Stack & Frameworks
 
 * **Languages & Scripts:** Python (Data Analysis/Pandas/NumPy), SQL (PostgreSQL, MSSQL), JavaScript
 * **Data & System Architecture:** Relational Database Design, REST API Integration, JSON Data Structuring
@@ -35,8 +35,8 @@ Highly analytical Technical Solutions Specialist with a strong foundation in sof
 * Engineered an automated compliance tracking framework to monitor the implementation levels of regional treaties and trade protocols across member states.
 * Transformed text-heavy international protocols into structured, searchable JSON datasets and relational database schemas.
 * Designed a reporting engine that automatically formats database queries into standardized, high-level briefing summaries and situation reports for policy analysts and diplomats.
-* 🔗 [View Repository](https://github.com/AYO-DEV-hub/ecowas-treaty-compliance-tracker)
-*
+*  [View Repository](https://github.com/AYO-DEV-hub/ecowas-treaty-compliance-tracker)
+
 
 ## EDUCATION
 ### Bachelor of Arts: History and International Studies
