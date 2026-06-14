@@ -35,7 +35,7 @@ Highly analytical Technical Solutions Specialist with a strong foundation in sof
 * Engineered an automated compliance tracking framework to monitor the implementation levels of regional treaties and trade protocols across member states.
 * Transformed text-heavy international protocols into structured, searchable JSON datasets and relational database schemas.
 * Designed a reporting engine that automatically formats database queries into standardized, high-level briefing summaries and situation reports for policy analysts and diplomats.
-*  [View Repository](https://github.com/AYO-DEV-hub/ecowas-treaty-compliance-tracker)
+*  [View Repository](https://github.com/AYO-DEV-hub/ecowas-treaty-compliance-tracker-README
 
 
 ## EDUCATION
