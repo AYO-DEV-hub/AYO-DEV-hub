@@ -49,7 +49,7 @@ Adept at transforming raw regional datasets into interactive dashboards and desi
 ---
 
 ## ADDITIONAL CERTIFICATIONS & REGISTRIES
-*   **Registered Individual Consultant:** United Nations Global Marketplace (UNGM #XXXXXX)
+*   **Registered Individual Consultant:** United Nations Global Marketplace (UNGM #1232090)
 *   **Verified Technical Portfolio:** GitHub Certified Repository Architecture
 
 
