@@ -4,7 +4,8 @@
 
 ## PROFESSIONAL SUMMARY
 ### 🇺🇳 UNGM Registered Individual Consultant: #1232090
-Highly analytical Technical Solutions Specialist with a strong foundation in software engineering, cloud database management, and data-driven report writing. Adept at transforming raw regional datasets into interactive dashboards and designing structured system architectures tailored for institutional transparency and monitoring workflows. Proven capacity to bridge the gap between complex software backend engineering and high-level technical documentation in alignment with international development standards.
+Highly analytical Technical Solutions Specialist with a strong foundation in software engineering, cloud database management, and data-driven report writing. 
+Adept at transforming raw regional datasets into interactive dashboards and designing structured system architectures tailored for institutional transparency and monitoring workflows. Proven capacity to bridge the gap between complex software backend engineering and high-level technical documentation in alignment with international development standards.
 
 ## CORE COMPETENCIES
 *   **Technical Architecture:** Database Design (SQL, Firebase), API Integrations, Cross-Border Software Automation.
